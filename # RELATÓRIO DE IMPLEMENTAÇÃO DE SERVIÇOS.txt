@@ -1,0 +1,28 @@
+# RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+
+Data: [19/04/2023]
+Empresa: UMBRELLA CORPORATION 
+Responsável: [VICTOR GABRIEL ABREU SOFFA]
+
+## Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa [UMBRELLA CORPORATION], realizado por [VICTOR GABRIEL ABREU SOFFA]. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+## Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: 
+- [Autenticação e Controle de Acesso: a AWS fornece um serviço de autenticação e autorização robusto e escalável que permite controlar quem tem acesso aos recursos da sua conta AWS. Isso inclui o uso de chaves de acesso, políticas de acesso granulares, autenticação multifator e integração com serviços de diretório, como o Active Directory.]
+
+Medida 2: 
+- [Criptografia de Dados: a AWS permite que você criptografe seus dados em trânsito e em repouso usando serviços como o AWS Key Management Service (KMS), o Amazon S3 e o Amazon RDS. Você pode gerenciar suas próprias chaves de criptografia ou usar chaves gerenciadas pela AWS.]
+
+Medida 3: 
+- [Monitoramento de Segurança: a AWS oferece várias ferramentas de monitoramento de segurança, como o Amazon GuardDuty, que usa machine learning para detectar comportamentos suspeitos e ameaças de segurança em tempo real, e o Amazon Inspector, que ajuda a identificar vulnerabilidades em suas aplicações e infraestrutura. Além disso, você pode usar o AWS CloudTrail para monitorar atividades em sua conta AWS e o AWS Config para avaliar o cumprimento das políticas de segurança.]
+
+
+## Conclusão
+A implementação de ferramentas na empresa *[nome da empresa] tem como esperado [benefícios das ferramentas]*, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+Assinatura do Responsável pelo Projeto:
+
+[VICTOR GABRIEL ABREU SOFFA]
